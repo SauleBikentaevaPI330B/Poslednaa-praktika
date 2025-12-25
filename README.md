@@ -84,6 +84,8 @@ echo "Container completed successfully"
 ![photo](https://github.com/SauleBikentaevaPI330B/Poslednaa-praktika/blob/main/5.1.png)
 ![photo](https://github.com/SauleBikentaevaPI330B/Poslednaa-praktika/blob/main/5.2.png)
 ![photo](https://github.com/SauleBikentaevaPI330B/Poslednaa-praktika/blob/main/5.3.png)
-#Задание 5: Импорт из ta
+# Задание 5: Импорт из tar
 ![photo](https://github.com/SauleBikentaevaPI330B/Poslednaa-praktika/blob/main/Снимок%20экрана%202025-12-25%20181657.png)
 ![photo](https://github.com/SauleBikentaevaPI330B/Poslednaa-praktika/blob/main/6.1.png)
+# Таким образом, изучили дополнительные возможности Docker для управления жизненным циклом контейнеров, мониторинга их состояния и оптимизации использования системных ресурсов.
+
